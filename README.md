@@ -4,7 +4,7 @@
 
 
 - 💻 Full stack | Software Developer |
-- 👩‍💻 I am currently working at Software Estrategico.
+- 👩‍💻 I am currently working at Softgic.
 - 📫 How to contact me: 
 </div>
 
