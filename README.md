@@ -5,7 +5,7 @@
 
 - 💻 Full stack | Software Developer |
 - 👩‍💻 I am currently working at Softgic.
-- 📫 How to contact me: 
+- 📫 How to contact me: Davidkelthaz@gmail.com, +57 3002773469
 </div>
 
 
