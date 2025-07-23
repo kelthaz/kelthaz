@@ -14,7 +14,7 @@
 
 <img height="200em" src="https://github-readme-stats.vercel.app/api?username=kelthaz&show_icons=true&theme=blueberry&include_all_commits=true&count_private=true"/>
 <br>
-<img height="ediem" src="https://github-readme-stats.vercel.app/api/top-langs/?username=kelthaz&layout=compact&langs_count=7&theme=blueberry"/>
+<img height="mediem" src="https://github-readme-stats.vercel.app/api/top-langs/?username=kelthaz&layout=compact&langs_count=7&theme=blueberry"/>
 </div>
 <div style="display: inline_block">
 <br>
