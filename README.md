@@ -1,40 +1,52 @@
+<h1 align="center">👋 Hi, I'm Carlos David Prado</h1>
+<h3 align="center">💻 Full Stack Developer — Backend-Focused with Node.js and React</h3>
 
-## 👋 Hi, i'm Carlos David Prado Hernandez!
-<div align="center">
+---
 
+🚀 Passionate about building scalable, maintainable, and well-tested systems.  
+I'm currently working as a **Software Developer** at Softgic.  
+I enjoy designing clean architectures, working with complex databases, and automating workflows.
 
-- 💻 Full stack | Software Developer |
-- 👩‍💻 I am currently working at Softgic.
-- 📫 How to contact me: Davidkelthaz@gmail.com, +57 3002773469
-</div>
+---
 
+### 🛠️ Tech Stack
 
-<div align="center">
-<a href="https://github.com/kelthaz">
+![JavaScript](https://img.shields.io/badge/-JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=000)
+![TypeScript](https://img.shields.io/badge/-TypeScript-3178C6?style=flat-square&logo=typescript&logoColor=fff)
+![Node.js](https://img.shields.io/badge/-Node.js-339933?style=flat-square&logo=node.js&logoColor=fff)
+![NestJS](https://img.shields.io/badge/-NestJS-E0234E?style=flat-square&logo=nestjs&logoColor=fff)
+![Express](https://img.shields.io/badge/-Express-000000?style=flat-square&logo=express&logoColor=fff)
+![React](https://img.shields.io/badge/-React-61DAFB?style=flat-square&logo=react&logoColor=000)
+![Vue.js](https://img.shields.io/badge/-Vue.js-42B883?style=flat-square&logo=vue.js&logoColor=fff)
+![PostgreSQL](https://img.shields.io/badge/-PostgreSQL-4169E1?style=flat-square&logo=postgresql&logoColor=fff)
+![Oracle](https://img.shields.io/badge/-Oracle-F80000?style=flat-square&logo=oracle&logoColor=fff)
+![Docker](https://img.shields.io/badge/-Docker-2496ED?style=flat-square&logo=docker&logoColor=fff)
+![Jest](https://img.shields.io/badge/-Jest-C21325?style=flat-square&logo=jest&logoColor=fff)
 
-<img height="200em" src="https://github-readme-stats.vercel.app/api?username=kelthaz&show_icons=true&theme=blueberry&include_all_commits=true&count_private=true"/>
-<br>
-<img height="ediem" src="https://github-readme-stats.vercel.app/api/top-langs/?username=kelthaz&layout=compact&langs_count=7&theme=blueberry"/>
-</div>
-<div style="display: inline_block">
-<br>
-<br>
-<div align="center">
-<img align="center" alt="david-Js" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg">
-<img align="center" alt="david-Ts" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/typescript/typescript-plain.svg">
-<img align="center" alt="david-react" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original.svg">
-<img align="center" alt="david-Vue" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vuejs/vuejs-original.svg">
-<img align="center" alt="david-Node" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-original.svg">
-<img align="center" alt="david-express" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/express/express-original.svg">
-<img align="center" alt="david-nest" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nestjs/nestjs-original.svg">
-<img align="center" alt="david-MySQL" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original.svg">
-<img align="center" alt="david-Python" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg">
-<img align="center" alt="david-PostgreSQL" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/postgresql/postgresql-original.svg">
-</div>
+---
 
-##
+### 📈 GitHub Stats
 
-<div align="center">
-<a href="https://www.linkedin.com/in/kelthaz" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a>
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=kelthaz&show_icons=true&theme=radical" height="160" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=kelthaz&layout=compact&theme=radical" height="160"/>
+</p>
 
-</div>
+---
+
+### 📌 Currently Working On
+
+- 🔍 Deepening knowledge of software architecture and design patterns.
+- 🧪 Practicing advanced testing with Jest and Jasmine.
+- 🎥 Creating educational programming content for Instagram and Kick.
+
+---
+
+### 📫 Get in Touch
+
+[![Email](https://img.shields.io/badge/Email-davidkelthaz@gmail.com-blue)](mailto:davidkelthaz@gmail.com)  
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-David%20Prado-blue?logo=linkedin)]([https://www.linkedin.com/in/tuusuario/](https://www.linkedin.com/in/kelthaz/))
+
+---
+
+_Thanks for visiting my profile 🙌 I’m open to collaborating on exciting projects or challenging technical roles!_
