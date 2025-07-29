@@ -28,14 +28,15 @@ I enjoy designing clean architectures, working with complex databases, and autom
 
 <p align="center">
   <img 
-    src="https://github-readme-stats.vercel.app/api?username=kelthaz&show_icons=true&hide_title=false&bg_color=1E2235&title_color=7FB0FF&text_color=7DF9AA&icon_color=FFD700&border_color=1E2235" 
+    src="https://github-readme-stats.vercel.app/api?username=kelthaz&show_icons=true&hide_title=false&bg_color=1E2235&title_color=7FB0FF&text_color=7DF9AA&icon_color=7FB0FF&border_color=1E2235" 
     height="160"
   />
   <img 
-    src="https://github-readme-stats.vercel.app/api/top-langs/?username=kelthaz&layout=compact&bg_color=1E2235&title_color=7FB0FF&text_color=7DF9AA&icon_color=FFD700&border_color=1E2235"
+    src="https://github-readme-stats.vercel.app/api/top-langs/?username=kelthaz&layout=compact&bg_color=1E2235&title_color=7FB0FF&text_color=7DF9AA&icon_color=7FB0FF&border_color=1E2235"
     height="160"
   />
 </p>
+
 
 
 
