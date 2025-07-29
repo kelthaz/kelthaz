@@ -52,8 +52,7 @@ I enjoy designing clean architectures, working with complex databases, and autom
 
 ### 📫 Get in Touch
 
-[![Email](https://img.shields.io/badge/Email-davidkelthaz@gmail.com-blue)](mailto:davidkelthaz@gmail.com)  
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-David%20Prado-blue?logo=linkedin)]([https://www.linkedin.com/in/kelthaz/])
+[![Email](https://img.shields.io/badge/Email-davidkelthaz@gmail.com-blue)](mailto:davidkelthaz@gmail.com) 
 
 ---
 
