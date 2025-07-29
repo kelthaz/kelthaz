@@ -1,4 +1,4 @@
-<h1 align="center">👋 Hi, I'm Carlos David Prado</h1>
+<h1 align="center">👋 Hi, I'm David Prado</h1>
 <h3 align="center">💻 Full Stack Developer — Backend-Focused with Node.js and React</h3>
 
 ---
