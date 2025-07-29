@@ -19,7 +19,6 @@ I enjoy designing clean architectures, working with complex databases, and autom
 ![React](https://img.shields.io/badge/-React-61DAFB?style=flat-square&logo=react&logoColor=000)
 ![Vue.js](https://img.shields.io/badge/-Vue.js-42B883?style=flat-square&logo=vue.js&logoColor=fff)
 ![PostgreSQL](https://img.shields.io/badge/-PostgreSQL-4169E1?style=flat-square&logo=postgresql&logoColor=fff)
-![Oracle](https://img.shields.io/badge/-Oracle-F80000?style=flat-square&logo=oracle&logoColor=fff)
 ![Docker](https://img.shields.io/badge/-Docker-2496ED?style=flat-square&logo=docker&logoColor=fff)
 ![Jest](https://img.shields.io/badge/-Jest-C21325?style=flat-square&logo=jest&logoColor=fff)
 
@@ -29,7 +28,7 @@ I enjoy designing clean architectures, working with complex databases, and autom
 
 <p align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=kelthaz&show_icons=true&theme=radical" height="160" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=kelthaz&layout=compact&theme=radical" height="160"/>
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=kelthaz&**layout=compact&theme=radical**" height="160"/>
 </p>
 
 ---
@@ -45,7 +44,7 @@ I enjoy designing clean architectures, working with complex databases, and autom
 ### 📫 Get in Touch
 
 [![Email](https://img.shields.io/badge/Email-davidkelthaz@gmail.com-blue)](mailto:davidkelthaz@gmail.com)  
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-David%20Prado-blue?logo=linkedin)]([https://www.linkedin.com/in/tuusuario/](https://www.linkedin.com/in/kelthaz/))
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-David%20Prado-blue?logo=linkedin)]([https://www.linkedin.com/in/kelthaz/])
 
 ---
 
