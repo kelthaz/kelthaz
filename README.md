@@ -3,7 +3,7 @@
 
 ---
 
-🚀 Passionate about building scalable, maintainable, and well-tested systems.  
+Passionate about building scalable, maintainable, and well-tested systems.  
 I'm currently working as a **Software Developer** at Softgic.  
 I enjoy designing clean architectures, working with complex databases, and automating workflows.
 
