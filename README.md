@@ -42,7 +42,7 @@ I enjoy designing clean architectures, working with complex databases, and autom
 
 ---
 
-### 📌 Currently Working On
+### Currently Working On
 
 - 🔍 Deepening knowledge of software architecture and design patterns.
 - 🧪 Practicing advanced testing with Jest and Jasmine.
