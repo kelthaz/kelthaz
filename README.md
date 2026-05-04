@@ -24,7 +24,7 @@ I enjoy designing clean architectures, working with complex databases, and autom
 
 ---
 
-### 📈 GitHub Stats
+### GitHub Stats
 
 <p align="center">
   <img 
