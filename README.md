@@ -48,20 +48,6 @@ I enjoy designing clean architectures, working with complex databases, and autom
 
 ---
 
-<div align="center">
-
-[![](https://github-readme-streak-stats.herokuapp.com/?user=angelluna03030&theme=material-palenight&hide_border=true)](https://github.com/angelluna03030)
-
-</div>
-<!--Contribution Graph-->
-<h2 align="center">📈 Cᴏɴᴛʀɪʙᴜᴛɪᴏɴ Gʀᴀᴘʜ 📈</h2>
-<div align="center">
-    <img src="https://github-readme-activity-graph.vercel.app/graph?username=angelluna03030&bg_color=011627&color=79d3c3&line=c792ea&point=ffeb95&area=true&hide_border=false" style="border-radius: 15px;">
-</div>
-<p align="center">
-     <img src="https://capsule-render.vercel.app/api?type=waving&color=0:2E2E2E,100:000000&height=100&section=footer"/>
-</p>
-
 ### 📫 Get in Touch
 
 [![Email](https://img.shields.io/badge/Email-davidkelthaz@gmail.com-blue)](mailto:davidkelthaz@gmail.com) 
