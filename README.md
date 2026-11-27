@@ -1,7 +1,6 @@
 <h1 align="center">👋 Hi, I'm David Prado</h1>
 <h3 align="center">💻 Full Stack Developer</h3>
 
-
 ---
 
 Passionate about building scalable, maintainable, and well-tested systems.  
